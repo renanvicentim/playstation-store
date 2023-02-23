@@ -112,7 +112,6 @@ h4 {
     cursor: pointer;
     z-index: 2;
     background: linear-gradient(to right, #fb5283, #ff3527);
-    transition: all 0.5s ease-in-out;
 }
 
 .buy img {
